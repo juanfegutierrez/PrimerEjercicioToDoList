@@ -1,7 +1,9 @@
 # PrimerEjercicioToDoList
 Primer ejercicio con HTML, CSS y JS
 
-PRIMER EJERCICIOS MANIPULACION DEL DOM
+El siguiente ejercicio, ha generado un buen número de dudas con relación a lo aprendido hasta ahora. No tengo conocimientos previos en programación lo que hace que sea más lento el aprendizaje. Por ahora no es fácil razonar los algoritmos usados, sin embargo hago una profundización para comenzar a detectar lo creado, para ello usé ChatGPT como si fuese un tutor, para que, a través de mis preguntas fortaleciera mis conocimientos escritos en este primer proyecto. 
+
+# PRIMER EJERCICIOS MANIPULACION DEL DOM
 
 # DUDAS EJERCICIO:
 
@@ -100,5 +102,9 @@ En resumen, estas dos funciones trabajan juntas para permitir que las tareas de 
 # VIDEO DE REFERENCIA:
 
 [![Alt text](https://img.youtube.com/vi/G0jO8kUrg-I/0.jpg)](https://www.youtube.com/watch?v=G0jO8kUrg-I)
+
+Además, dejo este recurso que me ayudó a comprender un poco más la manipulación del DOM:
+
+https://www.instagram.com/p/C6Bx1BIAx_P/?igsh=MXRsNjU3cWk2cnlpYw==
 
 Nota: Este texto es creado por IA con supervisión de un humano. (Pendiente por validación del docente)
