@@ -97,4 +97,8 @@ Claro, aquí tienes el análisis de las dos funciones:
 
 En resumen, estas dos funciones trabajan juntas para permitir que las tareas de la lista se guarden y se restauren automáticamente desde el almacenamiento local del navegador, lo que proporciona persistencia de datos y una experiencia mejorada al usuario al volver a cargar la página.
 
+# VIDEO DE REFERENCIA:
+
+[![Alt text](https://img.youtube.com/vi/G0jO8kUrg-I/0.jpg)](https://www.youtube.com/watch?v=G0jO8kUrg-I)
+
 Nota: Este texto es creado por IA con supervisión de un humano. (Pendiente por validación del docente)
